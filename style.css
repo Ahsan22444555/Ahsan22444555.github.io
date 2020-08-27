@@ -1,0 +1,39 @@
+
+.card {
+    background: rgb(243, 233, 233);
+    float: none;
+    margin: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+
+img {
+    margin-right: 5px;
+}
+
+ul , .Bold {
+    font-size: 16px;
+    font-weight: 21px;
+}
+
+.flex {
+    display: inline-flex;
+}
+
+.text-center {
+    margin-left: 100px;
+}
+
+strong {
+    color: rgb(104, 83, 124);
+    font-size: 25px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, pre {
+    font-family: 'Montserrat', sans-serif;
+}
